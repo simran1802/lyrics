@@ -1,5 +1,5 @@
 # lyrics
-A python script to get the lyrics of a song
+A python script to get the lyrics of a random song.
 
 ##Usage
-lyrics.py <artist(s)> <song>
+lyrics.py <artists> <song>
